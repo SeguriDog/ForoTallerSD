@@ -4,7 +4,7 @@ class RegularController {
 
     static scaffold = Regular
 
-    def index() {
+    def indexRegular() {
       def listRegular = Regular.list()
       [regular:listRegular]
     }
