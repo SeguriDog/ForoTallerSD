@@ -1,0 +1,18 @@
+<plugin name='gorm-interceptors' version='0.1.1' grailsVersion='1.2 &gt; *'>
+  <author>Predrag Knezevic</author>
+  <authorEmail>pedjak@gmail.com</authorEmail>
+  <title>GORM Interceptors Plugin</title>
+  <description>Interceptors for GORM methods (excluding find*, countBy*, addTo*, removeFrom* methods)</description>
+  <documentation>https://github.com/pedjak/grails-gorm-interceptors/blob/master/README.md</documentation>
+  <type>GormInterceptorsGrailsPlugin</type>
+  <resources />
+  <repositories>
+    <repository name='grailsCentral' url='http://grails.org/plugins' />
+    <repository name='http://repo.grails.org/grails/core' url='http://repo.grails.org/grails/core/' />
+    <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
