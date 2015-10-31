@@ -4,7 +4,7 @@ class AdminController {
 
     static scaffold = Admin
 
-    def index() {
+    def indexAdmin() {
       def listAdmin = Admin.list()
       [admin:listAdmin]
     }
