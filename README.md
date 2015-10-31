@@ -1,4 +1,5 @@
 # ForoTallerSD
-Configuración:
+ConfiguraciÃ³n:
 - Grails: 2.5.0
+
 - JDK: 8.25
