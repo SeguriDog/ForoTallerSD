@@ -4,7 +4,7 @@ class PostController {
 
     static  scaffold = Post
 
-    def index() {
+    def indexPost() {
       def listPost = Post.list()
       [post:listPost]
     }
