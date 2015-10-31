@@ -4,7 +4,7 @@ class ForumController {
 
     static scaffold = Forum
 
-    def index() {
+    def indexForum() {
       def listForum = Forum.list()
       [forum:listForum]
     }
