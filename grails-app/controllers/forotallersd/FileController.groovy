@@ -4,7 +4,7 @@ class FileController {
 
     static  scaffold = File
 
-    def index() {
+    def indexFile() {
       def listFile = File.list()
       [file:listFile]
     }
