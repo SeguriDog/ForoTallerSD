@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="2" failures="0" hostname="Familiar-PC" name="forotallersd.PostControllerSpec" tests="2" time="9.408" timestamp="2015-11-01T00:33:39">
+  <properties />
+  <testcase classname="forotallersd.PostControllerSpec" name="Text action: rate" time="9.248">
+    <error message="Cannot get property &apos;rate&apos; on null object" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot get property &apos;rate&apos; on null object
+	at forotallersd.PostController.$tt__rate(PostController.groovy:131)
+	at forotallersd.PostControllerSpec.Text action: rate(PostControllerSpec.groovy:22)
+</error>
+  </testcase>
+  <testcase classname="forotallersd.PostControllerSpec" name="Text action: comment" time="0.058">
+    <error message="Cannot get property &apos;comments&apos; on null object" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot get property &apos;comments&apos; on null object
+	at forotallersd.PostController.$tt__comment(PostController.groovy:136)
+	at forotallersd.PostControllerSpec.Text action: comment(PostControllerSpec.groovy:39)
+</error>
+  </testcase>
+  <system-out><![CDATA[--Output from Text action: rate--
+--Output from Text action: comment--
+]]></system-out>
+  <system-err><![CDATA[--Output from Text action: rate--
+--Output from Text action: comment--
+]]></system-err>
+</testsuite>

@@ -2,80 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc464b36-279b-48da-baee-318e785f760f" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\classes\forotallersd\Post$__clinit__closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\integration\application.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\spring\resources.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\AdminControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\AdminSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\FileControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\FileSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\ForumControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\ForumSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\PostControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\PostSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\RegularControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\RegularSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\UserControllerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-classes\unit\forotallersd\UserSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\TomcatGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\InlineExplodedTomcatServer$_preStart_closure1$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\InlineExplodedTomcatServer$_preStart_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\InlineExplodedTomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\ParentDelegatingClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatKillSwitch.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatServer$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatServerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_addEventHookToBinding_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createEventListener_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createEventListener_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createEventListener_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createExecutionContext_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_findSystemClasspathJars_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_findSystemClasspathJars_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_startSecure_closure6$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_startSecure_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatDevelopmentRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatExecutionContext$_buildMinimalIsolatedClasspath_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatExecutionContext.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatWarRunner.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Admin$__clinit__closure1.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Admin$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Admin.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Admin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/AdminController.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/AdminController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1$_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/File$__clinit__closure1.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/File$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/File.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/File.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/FileController.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/FileController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Forum$__clinit__closure1.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Forum$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Forum$__clinit__closure2.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Forum$__clinit__closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Forum.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Forum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/ForumController.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/ForumController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Post$__clinit__closure1.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Post$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Post.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Post.class" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\TEST-unit-unit-forotallersd.AdminSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\TEST-unit-unit-forotallersd.FileSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\TEST-unit-unit-forotallersd.RegularSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\TEST-unit-unit-forotallersd.UserSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\html\forotallersd\0_AdminSpec.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\html\forotallersd\1_FileSpec.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\html\forotallersd\2_RegularSpec.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\html\forotallersd\3_UserSpec.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.AdminSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.AdminSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.AdminSpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.FileSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.FileSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.FileSpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.RegularSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.RegularSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.RegularSpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.UserSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.UserSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Richard\Unal\Ingenieria de Software II\Talleres\ForoTallerSD\target\test-reports\plain\TEST-unit-unit-forotallersd.UserSpec.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/PostController$_closure1.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/PostController$_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/PostController$_closure2.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/PostController$_closure2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/PostController.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/PostController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Regular$__clinit__closure1.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Regular$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/Regular.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/Regular.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/RegularController.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/RegularController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/User.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/forotallersd/UserController.class" afterPath="$PROJECT_DIR$/target/classes/forotallersd/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/forotallersd/File.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/forotallersd/File.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ForoTallerSD-grailsPlugins.iml" afterPath="$PROJECT_DIR$/ForoTallerSD-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ForoTallerSD.iml" afterPath="$PROJECT_DIR$/ForoTallerSD.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/forotallersd/Post.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/forotallersd/Post.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/forotallersd/ForumSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/forotallersd/ForumSpec.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/forotallersd/PostController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/forotallersd/PostController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/forotallersd/PostControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/forotallersd/PostControllerSpec.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" afterPath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/html/all.html" afterPath="$PROJECT_DIR$/target/test-reports/html/all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/html/failed.html" afterPath="$PROJECT_DIR$/target/test-reports/html/failed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/html/index.html" afterPath="$PROJECT_DIR$/target/test-reports/html/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/web.xml.tmp" afterPath="$PROJECT_DIR$/target/work/web.xml.tmp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/resources/web.xml" afterPath="$PROJECT_DIR$/target/work/resources/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ForoTallerSD.iws" />
@@ -106,8 +63,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.9423077">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.6346154">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -116,11 +73,22 @@
       <file leaf-file-name="PostController.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/forotallersd/PostController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96045196">
-              <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.86159843">
+              <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
               <folding>
                 <element signature="e#24#75#0" expanded="true" />
+                <marker date="1446338149941" expanded="true" signature="3544:3622" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostControllerSpec.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/forotallersd/PostControllerSpec.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.73913044">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,6 +122,9 @@
         <option value="$PROJECT_DIR$/grails-app/domain/forotallersd/Post.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/forotallersd/File.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/forotallersd/PostFilters.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/forotallersd/ForumSpec.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/forotallersd/PostControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/forotallersd/PostController.groovy" />
       </list>
     </option>
@@ -166,10 +137,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1278" />
+    <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -364,29 +335,29 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="1" y="1" width="1278" height="982" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33026466" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3372503" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928804" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -427,6 +398,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -445,13 +417,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/forotallersd/RegularController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16007534">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/forotallersd/AdminController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16007534">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -506,6 +471,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27091634">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -540,17 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/forotallersd/Post.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9423077">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/forotallersd/File.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
@@ -578,12 +533,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/forotallersd/AdminController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.165692">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/forotallersd/PostFilters.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28544775">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/forotallersd/ForumSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6315789">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/forotallersd/Post.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6346154">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/forotallersd/PostControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.73913044">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/forotallersd/PostController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96045196">
-          <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.86159843">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
           <folding>
             <element signature="e#24#75#0" expanded="true" />
+            <marker date="1446338149941" expanded="true" signature="3544:3622" placeholder="..." />
           </folding>
         </state>
       </provider>

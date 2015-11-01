@@ -1,0 +1,25 @@
+Testsuite: forotallersd.PostControllerSpec
+Tests run: 2, Failures: 0, Errors: 2, Time elapsed: 9,408 sec
+------------- Standard Output ---------------
+--Output from Text action: rate--
+--Output from Text action: comment--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Text action: rate--
+--Output from Text action: comment--
+------------- ---------------- ---------------
+
+Testcase: Text action: rate took 9,215 sec
+	Caused an ERROR
+Cannot get property 'rate' on null object
+java.lang.NullPointerException: Cannot get property 'rate' on null object
+	at forotallersd.PostController.$tt__rate(PostController.groovy:131)
+	at forotallersd.PostControllerSpec.Text action: rate(PostControllerSpec.groovy:22)
+
+Testcase: Text action: comment took 0,057 sec
+	Caused an ERROR
+Cannot get property 'comments' on null object
+java.lang.NullPointerException: Cannot get property 'comments' on null object
+	at forotallersd.PostController.$tt__comment(PostController.groovy:136)
+	at forotallersd.PostControllerSpec.Text action: comment(PostControllerSpec.groovy:39)
+

@@ -129,6 +129,7 @@ class PostController {
     def rate () {
         def postrate = Post.findById(params.actualPost)
         postrate.rate += 1
+        postrate.save()
     }
 
     def comment (){
@@ -136,4 +137,5 @@ class PostController {
         postcomment.comments.add(params.commentContent)
         postcomment.save()
     }
+
 }

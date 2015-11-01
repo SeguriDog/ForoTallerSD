@@ -1,8 +1,0 @@
---Output from test admin attribute level: null, field: null, valid: false --
---Output from test admin attribute level: 0, field: minRange, valid: false --
---Output from test admin attribute level: 6, field: maxRange, valid: false --
---Output from test admin attribute level: 3, field: Range, valid: true --
---Output from test admin attribute rating: null, field: null, valid: false --
---Output from test admin attribute rating: -1, field: minRange, valid: false --
---Output from test admin attribute rating: 101, field: maxRange, valid: false --
---Output from test admin attribute rating: 56, field: Range, valid: true --

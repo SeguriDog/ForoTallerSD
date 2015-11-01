@@ -1,0 +1,2 @@
+--Output from Text action: rate--
+--Output from Text action: comment--
